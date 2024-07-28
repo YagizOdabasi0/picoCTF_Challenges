@@ -1,6 +1,5 @@
 # Description 
 * Know of little and big endian?
-* Source
 * nc titan.picoctf.net 63388
 
 ## My Solution 
